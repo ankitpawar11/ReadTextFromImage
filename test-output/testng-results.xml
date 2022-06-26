@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1936" started-at="2022-03-26T00:00:39 IST" finished-at="2022-03-26T00:00:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1936" started-at="2022-03-26T00:00:39 IST" finished-at="2022-03-26T00:00:41 IST">
+      <class name="tests.JSONSchemaValidator">
+        <test-method status="PASS" signature="validateJSONSchema()[pri:0, instance:tests.JSONSchemaValidator@22fcf7ab]" name="validateJSONSchema" duration-ms="1906" started-at="2022-03-26T00:00:39 IST" finished-at="2022-03-26T00:00:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateJSONSchema -->
+      </class> <!-- tests.JSONSchemaValidator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
